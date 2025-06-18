@@ -652,9 +652,9 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/960c8063-38e7-4890-880f-d1f75daebf37)
+![image](https://github.com/user-attachments/assets/833c709d-cdcb-4cfe-84f1-6f32b6578b0b)
 
-![image](https://github.com/user-attachments/assets/12981fa9-f2dc-4e69-8680-057665e7efef)
+![image](https://github.com/user-attachments/assets/c1c7495a-bbb2-417b-8d69-bc1f3151d573)
 
 
 
